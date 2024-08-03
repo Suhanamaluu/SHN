@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+body {
+    background: #050e2d;
+    color: #fff;
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-thumb {
+    background: #1aeeef;
+    border-radius: 6px;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1b2141;
+    z-index: 1000;
+}
+header .logo {
+    color: #fff;
+    text-decoration: none;
+    font-size: 2em;
+    font-weight: 700;
+}
+header ul {
+    display: flex;
+}
+header ul li {
+    list-style: none;
+    margin: 0 10px;
+}
+header ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+header ul li a:hover {
+    background: #1aeeef;
+    color: #050e2d;
+    box-shadow: 0 0 10px #1aeeef;
+}
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background: #050e2d url('background.jpg') no-repeat center center/cover;
+}
+.banner .content {
+    max-width: 600px;
+}
+.banner h3 {
+    font-size: 2em;
+}
+.banner h2 {
+    font-size: 4em;
+    margin: 20px 0;
+}
+.banner p {
+    font-size: 1.2em;
+}
+.form-section {
+    padding: 50px 80px;
+    background: #1b2141;
+}
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.form-container h2 {
+    margin-bottom: 20px;
+}
+.searchBx {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border-radius: 5px;
+    padding: 5px;
+}
+.searchBx i {
+    font-size: 1.4em;
+    color: #222;
+    margin-right: 10px;
+}
+.searchBx input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+.searchBx button {
+    padding: 10px 20px;
+    background: #1aeeef;
+    border: none;
+    color: #050e2d;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.searchBx button:hover {
+    background: #0d9eca;
+}
+.resume {
+    padding: 50px 80px;
+}
+.resume-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #1b2141;
+    border-radius: 10px;
+    padding: 20px;
+}
+.resume-container h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.resume .profile {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.resume .profile .avatar {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+.resume .repos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+.resume .repos ul {
+    list-style: none;
+    padding: 0;
+}
+.resume .repos li {
+    background: #1b2141;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.resume .repos li a {
+    color: #1aeeef;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+.resume .repos li a:hover{
+    background: #1aeeef;
+    color: #050e2d;
+    box-shadow: 0 0 10px #1aeeef;
+}
+.resume .repos li p {
+    margin: 10px 0;
+    color: #ccc;
+}
+.resume .repos li ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 10px 0 0;
+}
+.resume .repos li ul li {
+    color: #fff;
+}
+
