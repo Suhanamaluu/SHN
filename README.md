@@ -7,8 +7,8 @@
 # Github Resume Builder
 a good project.....
 ## Team members
-1. (Krishna.P)(https://github.com/TH-Activities/saturday-hack-night-template)
-2. (Safa.Fathima)(https://github.com/SAFA-010/safa.git)
+1. (Krishna.P)(https://github.com/krishna-p-04)
+2. (Safa.Fathima)(https://github.com/SAFA-010)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
