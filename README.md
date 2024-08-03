@@ -4,11 +4,11 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Github Resume Builder
+With this project, we can generate a complete resume of a GitHub user. By entering the username, we retrieve the profile information, including the profile photo, number of followers, following, and repositories. We also display the repositories created by the user, with links to each repository. Clicking on the repository names will redirect you to the corresponding GitHub repository.
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. Krishna.P(https://github.com/TH-Activities/saturday-hack-night-template)
+2. Safa.Fathima(https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
