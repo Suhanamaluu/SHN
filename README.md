@@ -5,15 +5,16 @@
 
 
 # Github Resume Builder
-With this project, we can generate a complete resume of a GitHub user. By entering the username, we retrieve the profile information, including the profile photo, number of followers, following, and repositories. We also display the repositories created by the user, with links to each repository. Clicking on the repository names will redirect you to the corresponding GitHub repository.
+a good project.....
 ## Team members
 1. Krishna.P(https://github.com/TH-Activities/saturday-hack-night-template)
-2. Safa.Fathima(https://github.com/TH-Activities/saturday-hack-night-template)
+2. Safa.Fathima(https://github.com/SAFA-010/safa.git)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
 1. Explaining the working of project
-2. Embed video of project demo
+    With this project, we can generate a complete resume of a GitHub user. By entering the username, we retrieve the profile information, including the profile photo, number of followers, following, and repositories. We also display the repositories created by the user, with links to each repository. Clicking on the repository names will redirect you to the corresponding GitHub repository.
+3. Embed video of project demo
 ## Libraries used
 Library Name - Version
 ## How to configure
