@@ -10,7 +10,7 @@ a good project.....
 1. [Krishna.P](https://github.com/krishna-p-04)
 2. [Safa.Fathima](https://github.com/SAFA-010)
 ## Link to product walkthrough
-[Github-Resume-Builder](https://suhanamaluu.github.io/SHN/)
+[Github-Resume-Builder](https://suhanamaluu.github.io/hacknight/)
 ## How it Works ?
 1. Explaining the working of project
     With this project, we can generate a complete resume of a GitHub user. By entering the username, we retrieve the profile information, including the profile photo, number of followers, following, and repositories. We also display the repositories created by the user, with links to each repository. Clicking on the repository names will redirect you to the corresponding GitHub repository.
